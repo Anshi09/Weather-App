@@ -1,0 +1,6 @@
+{
+  "name": "Stratum Weather Observatory",
+  "description": "Modern real-time weather platform with animated atmospheric backgrounds, quick hourly forecasts, location-based alerts, and interactive sky visualization powered by live meteorological sensor reports.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
